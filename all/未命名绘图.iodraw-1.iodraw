@@ -47,22 +47,22 @@
           <mxGeometry x="840" y="462" width="220" height="49" as="geometry" />
         </mxCell>
         <mxCell id="XCOoZQrOJ5j_rnbUlg0s-12" value="Unreal Engine使用" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="842" y="600" width="220" height="49" as="geometry" />
+          <mxGeometry x="840" y="600" width="220" height="49" as="geometry" />
         </mxCell>
         <mxCell id="XCOoZQrOJ5j_rnbUlg0s-13" value="三维建模与动画制作" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="850" y="729" width="204" height="49" as="geometry" />
+          <mxGeometry x="840" y="729" width="204" height="49" as="geometry" />
         </mxCell>
         <mxCell id="XCOoZQrOJ5j_rnbUlg0s-14" value="全景图像制作与拼接" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="850" y="868" width="204" height="49" as="geometry" />
+          <mxGeometry x="840" y="868" width="204" height="49" as="geometry" />
         </mxCell>
         <mxCell id="XCOoZQrOJ5j_rnbUlg0s-15" value="交互设计与用户体验" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="850" y="1066" width="204" height="49" as="geometry" />
+          <mxGeometry x="840" y="1066" width="204" height="49" as="geometry" />
         </mxCell>
         <mxCell id="XCOoZQrOJ5j_rnbUlg0s-16" value="虚拟场景构建" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="840" y="340" width="220" height="49" as="geometry" />
         </mxCell>
         <mxCell id="XCOoZQrOJ5j_rnbUlg0s-17" value="VR应用开发与优化" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="854" y="1171" width="192" height="49" as="geometry" />
+          <mxGeometry x="840" y="1171" width="192" height="49" as="geometry" />
         </mxCell>
         <mxCell id="XCOoZQrOJ5j_rnbUlg0s-18" value="虚拟现实技术特点与原理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1134" y="214" width="236" height="49" as="geometry" />
