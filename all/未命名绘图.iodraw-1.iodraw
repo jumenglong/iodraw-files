@@ -50,13 +50,13 @@
           <mxGeometry x="839" y="511" width="220" height="49" as="geometry" />
         </mxCell>
         <mxCell id="XCOoZQrOJ5j_rnbUlg0s-13" value="三维建模与动画制作" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="850" y="729" width="204" height="49" as="geometry" />
+          <mxGeometry x="839" y="620" width="204" height="49" as="geometry" />
         </mxCell>
         <mxCell id="XCOoZQrOJ5j_rnbUlg0s-14" value="全景图像制作与拼接" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="850" y="868" width="204" height="49" as="geometry" />
+          <mxGeometry x="839" y="710" width="204" height="49" as="geometry" />
         </mxCell>
         <mxCell id="XCOoZQrOJ5j_rnbUlg0s-15" value="交互设计与用户体验" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="850" y="1066" width="204" height="49" as="geometry" />
+          <mxGeometry x="839" y="810" width="204" height="49" as="geometry" />
         </mxCell>
         <mxCell id="XCOoZQrOJ5j_rnbUlg0s-16" value="虚拟场景构建" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="840" y="320" width="220" height="49" as="geometry" />
