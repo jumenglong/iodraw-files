@@ -118,40 +118,40 @@
         <mxCell id="XCOoZQrOJ5j_rnbUlg0s-17" value="VR应用开发与优化" style="whiteSpace=wrap;strokeWidth=2;fillColor=#008a00;strokeColor=#005700;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="840" y="1171" width="200" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="XCOoZQrOJ5j_rnbUlg0s-18" value="虚拟现实技术特点与原理" style="whiteSpace=wrap;strokeWidth=2;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="XCOoZQrOJ5j_rnbUlg0s-18" value="虚拟现实技术特点与原理" style="whiteSpace=wrap;strokeWidth=2;fillColor=#a0522d;strokeColor=#6D1F00;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="1290" y="214" width="230" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="XCOoZQrOJ5j_rnbUlg0s-19" value="增强现实核心技术" style="whiteSpace=wrap;strokeWidth=2;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="XCOoZQrOJ5j_rnbUlg0s-19" value="增强现实核心技术" style="whiteSpace=wrap;strokeWidth=2;fillColor=#a0522d;strokeColor=#6D1F00;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="1290" y="301" width="230" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="XCOoZQrOJ5j_rnbUlg0s-20" value="图形系统与视觉呈现" style="whiteSpace=wrap;strokeWidth=2;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="XCOoZQrOJ5j_rnbUlg0s-20" value="图形系统与视觉呈现" style="whiteSpace=wrap;strokeWidth=2;fillColor=#a0522d;strokeColor=#6D1F00;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="1290" y="562" width="230" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="XCOoZQrOJ5j_rnbUlg0s-21" value="几何变换与空间坐标" style="whiteSpace=wrap;strokeWidth=2;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="XCOoZQrOJ5j_rnbUlg0s-21" value="几何变换与空间坐标" style="whiteSpace=wrap;strokeWidth=2;fillColor=#a0522d;strokeColor=#6D1F00;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="1290" y="649" width="230" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="XCOoZQrOJ5j_rnbUlg0s-22" value="计算机视觉与图像识别" style="whiteSpace=wrap;strokeWidth=2;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="XCOoZQrOJ5j_rnbUlg0s-22" value="计算机视觉与图像识别" style="whiteSpace=wrap;strokeWidth=2;fillColor=#a0522d;strokeColor=#6D1F00;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="1290" y="823" width="230" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="XCOoZQrOJ5j_rnbUlg0s-23" value="定位与追踪技术" style="whiteSpace=wrap;strokeWidth=2;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="XCOoZQrOJ5j_rnbUlg0s-23" value="定位与追踪技术" style="whiteSpace=wrap;strokeWidth=2;fillColor=#a0522d;strokeColor=#6D1F00;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="1290" y="475" width="230" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="XCOoZQrOJ5j_rnbUlg0s-24" value="传感器与硬件技术" style="whiteSpace=wrap;strokeWidth=2;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="XCOoZQrOJ5j_rnbUlg0s-24" value="传感器与硬件技术" style="whiteSpace=wrap;strokeWidth=2;fillColor=#a0522d;strokeColor=#6D1F00;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="1290" y="997" width="230" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="XCOoZQrOJ5j_rnbUlg0s-25" value="用户交互设计基础" style="whiteSpace=wrap;strokeWidth=2;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="XCOoZQrOJ5j_rnbUlg0s-25" value="用户交互设计基础" style="whiteSpace=wrap;strokeWidth=2;fillColor=#a0522d;strokeColor=#6D1F00;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="1290" y="910" width="230" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="XCOoZQrOJ5j_rnbUlg0s-26" value="虚拟现实系统分类" style="whiteSpace=wrap;strokeWidth=2;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="XCOoZQrOJ5j_rnbUlg0s-26" value="虚拟现实系统分类" style="whiteSpace=wrap;strokeWidth=2;fillColor=#a0522d;strokeColor=#6D1F00;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="1290" y="388" width="230" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="XCOoZQrOJ5j_rnbUlg0s-27" value="全景拍摄设备与技术" style="whiteSpace=wrap;strokeWidth=2;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="XCOoZQrOJ5j_rnbUlg0s-27" value="全景拍摄设备与技术" style="whiteSpace=wrap;strokeWidth=2;fillColor=#a0522d;strokeColor=#6D1F00;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="1290" y="736" width="230" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="XCOoZQrOJ5j_rnbUlg0s-28" value="元宇宙技术概念" style="whiteSpace=wrap;strokeWidth=2;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="XCOoZQrOJ5j_rnbUlg0s-28" value="元宇宙技术概念" style="whiteSpace=wrap;strokeWidth=2;fillColor=#a0522d;strokeColor=#6D1F00;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="1290" y="1171" width="230" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="XCOoZQrOJ5j_rnbUlg0s-29" value="VR行业应用案例" style="whiteSpace=wrap;strokeWidth=2;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="XCOoZQrOJ5j_rnbUlg0s-29" value="VR行业应用案例" style="whiteSpace=wrap;strokeWidth=2;fillColor=#a0522d;strokeColor=#6D1F00;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="1290" y="1084" width="230" height="49" as="geometry" />
         </mxCell>
         <mxCell id="XCOoZQrOJ5j_rnbUlg0s-35" value="" style="startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=1;exitDx=0;exitDy=0;strokeColor=#006EAF;edgeStyle=orthogonalEdgeStyle;curved=0;fillColor=#1ba1e2;" edge="1" parent="1" source="XCOoZQrOJ5j_rnbUlg0s-6" target="XCOoZQrOJ5j_rnbUlg0s-16">
@@ -160,7 +160,7 @@
         <mxCell id="XCOoZQrOJ5j_rnbUlg0s-41" value="" style="startArrow=none;endArrow=block;exitX=1;exitY=0.49;entryX=0;entryY=0.49;rounded=1;strokeColor=#006EAF;edgeStyle=orthogonalEdgeStyle;curved=0;fillColor=#1ba1e2;" edge="1" parent="1" source="XCOoZQrOJ5j_rnbUlg0s-9" target="XCOoZQrOJ5j_rnbUlg0s-17">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="XCOoZQrOJ5j_rnbUlg0s-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fillColor=#ffe6cc;strokeColor=#d79b00;" edge="1" parent="1" source="XCOoZQrOJ5j_rnbUlg0s-28" target="XCOoZQrOJ5j_rnbUlg0s-28">
+        <mxCell id="XCOoZQrOJ5j_rnbUlg0s-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fillColor=#a0522d;strokeColor=#6D1F00;" edge="1" parent="1" source="XCOoZQrOJ5j_rnbUlg0s-28" target="XCOoZQrOJ5j_rnbUlg0s-28">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="XCOoZQrOJ5j_rnbUlg0s-82" value="工作流程" style="whiteSpace=wrap;strokeWidth=2;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="1">
@@ -169,7 +169,7 @@
         <mxCell id="XCOoZQrOJ5j_rnbUlg0s-83" value="技能点" style="whiteSpace=wrap;strokeWidth=2;fillColor=#008a00;strokeColor=#005700;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="840" y="120" width="201" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="XCOoZQrOJ5j_rnbUlg0s-84" value="知识点" style="whiteSpace=wrap;strokeWidth=2;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="XCOoZQrOJ5j_rnbUlg0s-84" value="知识点" style="whiteSpace=wrap;strokeWidth=2;fillColor=#a0522d;strokeColor=#6D1F00;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="1290" y="120" width="230" height="49" as="geometry" />
         </mxCell>
       </root>
