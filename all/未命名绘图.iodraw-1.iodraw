@@ -4,8 +4,11 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="XCOoZQrOJ5j_rnbUlg0s-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="XCOoZQrOJ5j_rnbUlg0s-5" target="XCOoZQrOJ5j_rnbUlg0s-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="XCOoZQrOJ5j_rnbUlg0s-5" value="虚拟现实技术应用与开发" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="160" y="775" width="236" height="49" as="geometry" />
+          <mxGeometry x="170" y="710" width="236" height="49" as="geometry" />
         </mxCell>
         <mxCell id="XCOoZQrOJ5j_rnbUlg0s-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="XCOoZQrOJ5j_rnbUlg0s-6" target="XCOoZQrOJ5j_rnbUlg0s-10">
           <mxGeometry relative="1" as="geometry" />
@@ -83,9 +86,6 @@
           <mxGeometry x="1191" y="1214" width="176" height="49" as="geometry" />
         </mxCell>
         <mxCell id="XCOoZQrOJ5j_rnbUlg0s-30" value="" style="startArrow=none;endArrow=block;exitX=0.53;exitY=-0.01;entryX=0;entryY=0.5;rounded=1;strokeColor=default;edgeStyle=orthogonalEdgeStyle;curved=0;" edge="1" parent="1" source="XCOoZQrOJ5j_rnbUlg0s-5" target="XCOoZQrOJ5j_rnbUlg0s-6">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="XCOoZQrOJ5j_rnbUlg0s-31" value="" style="startArrow=none;endArrow=block;exitX=0.56;exitY=-0.01;entryX=0;entryY=0.5;rounded=1;strokeColor=default;edgeStyle=orthogonalEdgeStyle;curved=0;" edge="1" parent="1" source="XCOoZQrOJ5j_rnbUlg0s-5" target="XCOoZQrOJ5j_rnbUlg0s-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="XCOoZQrOJ5j_rnbUlg0s-32" value="" style="startArrow=none;endArrow=block;exitX=0.65;exitY=0.99;entryX=0;entryY=0.49;rounded=1;strokeColor=default;edgeStyle=orthogonalEdgeStyle;curved=0;" edge="1" parent="1" source="XCOoZQrOJ5j_rnbUlg0s-5" target="XCOoZQrOJ5j_rnbUlg0s-8">
