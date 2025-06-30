@@ -47,7 +47,7 @@
           <mxGeometry x="840" y="495" width="220" height="49" as="geometry" />
         </mxCell>
         <mxCell id="XCOoZQrOJ5j_rnbUlg0s-12" value="Unreal Engine使用" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="840" y="631" width="220" height="49" as="geometry" />
+          <mxGeometry x="840" y="631" width="200" height="49" as="geometry" />
         </mxCell>
         <mxCell id="XCOoZQrOJ5j_rnbUlg0s-13" value="三维建模与动画制作" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="840" y="768" width="204" height="49" as="geometry" />
@@ -62,7 +62,7 @@
           <mxGeometry x="840" y="358" width="220" height="49" as="geometry" />
         </mxCell>
         <mxCell id="XCOoZQrOJ5j_rnbUlg0s-17" value="VR应用开发与优化" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="840" y="1171" width="192" height="49" as="geometry" />
+          <mxGeometry x="840" y="1171" width="200" height="49" as="geometry" />
         </mxCell>
         <mxCell id="XCOoZQrOJ5j_rnbUlg0s-18" value="虚拟现实技术特点与原理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1290" y="214" width="230" height="49" as="geometry" />
