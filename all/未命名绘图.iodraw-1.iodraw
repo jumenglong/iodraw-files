@@ -115,12 +115,8 @@
         <mxCell id="XCOoZQrOJ5j_rnbUlg0s-41" value="" style="startArrow=none;endArrow=block;exitX=1;exitY=0.49;entryX=0;entryY=0.49;rounded=1;strokeColor=default;edgeStyle=orthogonalEdgeStyle;curved=0;" edge="1" parent="1" source="XCOoZQrOJ5j_rnbUlg0s-9" target="XCOoZQrOJ5j_rnbUlg0s-17">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="XCOoZQrOJ5j_rnbUlg0s-42" value="" style="curved=1;dashed=1;dashPattern=2 3;startArrow=none;endArrow=block;exitX=0.65;exitY=0;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="XCOoZQrOJ5j_rnbUlg0s-10" target="XCOoZQrOJ5j_rnbUlg0s-18">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1086" y="140" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="XCOoZQrOJ5j_rnbUlg0s-42" value="" style="dashed=1;dashPattern=2 3;startArrow=none;endArrow=block;exitX=0.65;exitY=0;entryX=0;entryY=0.5;rounded=0;edgeStyle=elbowEdgeStyle;" edge="1" parent="1" source="XCOoZQrOJ5j_rnbUlg0s-10" target="XCOoZQrOJ5j_rnbUlg0s-18">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="XCOoZQrOJ5j_rnbUlg0s-43" value="" style="dashed=1;dashPattern=2 3;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=1;strokeColor=default;edgeStyle=orthogonalEdgeStyle;curved=0;" edge="1" parent="1" source="XCOoZQrOJ5j_rnbUlg0s-10" target="XCOoZQrOJ5j_rnbUlg0s-19">
           <mxGeometry relative="1" as="geometry" />
