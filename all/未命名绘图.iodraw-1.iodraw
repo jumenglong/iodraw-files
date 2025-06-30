@@ -77,22 +77,22 @@
           <mxGeometry x="1177" y="700" width="204" height="49" as="geometry" />
         </mxCell>
         <mxCell id="XCOoZQrOJ5j_rnbUlg0s-22" value="计算机视觉与图像识别" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1169" y="917" width="220" height="49" as="geometry" />
+          <mxGeometry x="1169" y="860" width="220" height="49" as="geometry" />
         </mxCell>
         <mxCell id="XCOoZQrOJ5j_rnbUlg0s-23" value="定位与追踪技术" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1185" y="511" width="172" height="49" as="geometry" />
         </mxCell>
         <mxCell id="XCOoZQrOJ5j_rnbUlg0s-24" value="传感器与硬件技术" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1185" y="1115" width="188" height="49" as="geometry" />
+          <mxGeometry x="1177" y="1030" width="188" height="49" as="geometry" />
         </mxCell>
         <mxCell id="XCOoZQrOJ5j_rnbUlg0s-25" value="用户交互设计基础" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1185" y="1016" width="188" height="49" as="geometry" />
+          <mxGeometry x="1177" y="940" width="188" height="49" as="geometry" />
         </mxCell>
         <mxCell id="XCOoZQrOJ5j_rnbUlg0s-26" value="虚拟现实系统分类" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1185" y="413" width="188" height="49" as="geometry" />
         </mxCell>
         <mxCell id="XCOoZQrOJ5j_rnbUlg0s-27" value="全景拍摄设备与技术" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1177" y="818" width="204" height="49" as="geometry" />
+          <mxGeometry x="1177" y="778" width="204" height="49" as="geometry" />
         </mxCell>
         <mxCell id="XCOoZQrOJ5j_rnbUlg0s-28" value="元宇宙技术概念" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1193" y="1313" width="172" height="49" as="geometry" />
