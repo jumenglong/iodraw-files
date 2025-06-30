@@ -44,7 +44,7 @@
           <mxGeometry x="840" y="214" width="219" height="49" as="geometry" />
         </mxCell>
         <mxCell id="XCOoZQrOJ5j_rnbUlg0s-11" value="Unity 3D开发操作" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="840" y="440" width="220" height="49" as="geometry" />
+          <mxGeometry x="840" y="462" width="220" height="49" as="geometry" />
         </mxCell>
         <mxCell id="XCOoZQrOJ5j_rnbUlg0s-12" value="Unreal Engine使用" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="840" y="511" width="220" height="49" as="geometry" />
@@ -71,10 +71,10 @@
           <mxGeometry x="1185" y="214" width="188" height="49" as="geometry" />
         </mxCell>
         <mxCell id="XCOoZQrOJ5j_rnbUlg0s-20" value="图形系统与视觉呈现" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1177" y="511" width="204" height="49" as="geometry" />
+          <mxGeometry x="1185" y="620" width="204" height="49" as="geometry" />
         </mxCell>
         <mxCell id="XCOoZQrOJ5j_rnbUlg0s-21" value="几何变换与空间坐标" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1177" y="610" width="204" height="49" as="geometry" />
+          <mxGeometry x="1177" y="700" width="204" height="49" as="geometry" />
         </mxCell>
         <mxCell id="XCOoZQrOJ5j_rnbUlg0s-22" value="计算机视觉与图像识别" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1169" y="917" width="220" height="49" as="geometry" />
