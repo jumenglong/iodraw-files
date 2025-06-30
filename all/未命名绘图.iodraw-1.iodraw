@@ -21,6 +21,9 @@
         <mxCell id="XCOoZQrOJ5j_rnbUlg0s-6" value="任务1：VR理论基础学习" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="495.5" y="214" width="231" height="49" as="geometry" />
         </mxCell>
+        <mxCell id="XCOoZQrOJ5j_rnbUlg0s-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="XCOoZQrOJ5j_rnbUlg0s-7" target="XCOoZQrOJ5j_rnbUlg0s-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="XCOoZQrOJ5j_rnbUlg0s-7" value="任务2：开发工具掌握" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="505" y="527" width="212" height="49" as="geometry" />
         </mxCell>
@@ -106,9 +109,6 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="XCOoZQrOJ5j_rnbUlg0s-35" value="" style="startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=1;exitDx=0;exitDy=0;strokeColor=default;edgeStyle=orthogonalEdgeStyle;curved=0;" edge="1" parent="1" source="XCOoZQrOJ5j_rnbUlg0s-6" target="XCOoZQrOJ5j_rnbUlg0s-16">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="XCOoZQrOJ5j_rnbUlg0s-37" value="" style="startArrow=none;endArrow=block;exitX=1;exitY=0.65;entryX=0;entryY=0.5;rounded=1;strokeColor=default;edgeStyle=orthogonalEdgeStyle;curved=0;" edge="1" parent="1" source="XCOoZQrOJ5j_rnbUlg0s-7" target="XCOoZQrOJ5j_rnbUlg0s-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="XCOoZQrOJ5j_rnbUlg0s-38" value="" style="startArrow=none;endArrow=block;exitX=0.65;exitY=1;entryX=0;entryY=0.5;rounded=1;strokeColor=default;edgeStyle=orthogonalEdgeStyle;curved=0;" edge="1" parent="1" source="XCOoZQrOJ5j_rnbUlg0s-7" target="XCOoZQrOJ5j_rnbUlg0s-13">
