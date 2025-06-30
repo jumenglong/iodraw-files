@@ -41,10 +41,10 @@
           <mxGeometry x="505" y="1171" width="212" height="49" as="geometry" />
         </mxCell>
         <mxCell id="XCOoZQrOJ5j_rnbUlg0s-10" value="VR/AR概念理解与应用" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="700" y="214" width="219" height="49" as="geometry" />
+          <mxGeometry x="840" y="214" width="219" height="49" as="geometry" />
         </mxCell>
         <mxCell id="XCOoZQrOJ5j_rnbUlg0s-11" value="Unity 3D开发操作" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="840" y="462" width="220" height="49" as="geometry" />
+          <mxGeometry x="840" y="440" width="220" height="49" as="geometry" />
         </mxCell>
         <mxCell id="XCOoZQrOJ5j_rnbUlg0s-12" value="Unreal Engine使用" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="840" y="511" width="220" height="49" as="geometry" />
@@ -59,7 +59,7 @@
           <mxGeometry x="850" y="1066" width="204" height="49" as="geometry" />
         </mxCell>
         <mxCell id="XCOoZQrOJ5j_rnbUlg0s-16" value="虚拟场景构建" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="840" y="412" width="220" height="49" as="geometry" />
+          <mxGeometry x="840" y="320" width="220" height="49" as="geometry" />
         </mxCell>
         <mxCell id="XCOoZQrOJ5j_rnbUlg0s-17" value="VR应用开发与优化" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="856" y="1264" width="192" height="49" as="geometry" />
