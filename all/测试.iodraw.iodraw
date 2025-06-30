@@ -19,13 +19,13 @@
         <mxCell id="XCOoZQrOJ5j_rnbUlg0s-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#1ba1e2;strokeColor=#006EAF;" edge="1" parent="1" source="XCOoZQrOJ5j_rnbUlg0s-5" target="XCOoZQrOJ5j_rnbUlg0s-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="XCOoZQrOJ5j_rnbUlg0s-5" value="虚拟现实技术应用与开发" style="whiteSpace=wrap;strokeWidth=2;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="1">
+        <mxCell id="XCOoZQrOJ5j_rnbUlg0s-5" value="虚拟现实技术应用与开发" style="whiteSpace=wrap;strokeWidth=2;fillColor=#ffffff;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="110" y="680" width="236" height="69" as="geometry" />
         </mxCell>
         <mxCell id="XCOoZQrOJ5j_rnbUlg0s-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#1ba1e2;strokeColor=#006EAF;" edge="1" parent="1" source="XCOoZQrOJ5j_rnbUlg0s-6" target="XCOoZQrOJ5j_rnbUlg0s-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="XCOoZQrOJ5j_rnbUlg0s-6" value="任务1：VR理论基础学习" style="whiteSpace=wrap;strokeWidth=2;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="1">
+        <mxCell id="XCOoZQrOJ5j_rnbUlg0s-6" value="任务1：VR理论基础学习" style="whiteSpace=wrap;strokeWidth=2;fillColor=#ffffff;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="495.5" y="214" width="231" height="49" as="geometry" />
         </mxCell>
         <mxCell id="XCOoZQrOJ5j_rnbUlg0s-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fillColor=#1ba1e2;strokeColor=#006EAF;" edge="1" parent="1" source="XCOoZQrOJ5j_rnbUlg0s-7" target="XCOoZQrOJ5j_rnbUlg0s-11">
@@ -37,7 +37,7 @@
         <mxCell id="XCOoZQrOJ5j_rnbUlg0s-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#1ba1e2;strokeColor=#006EAF;" edge="1" parent="1" source="XCOoZQrOJ5j_rnbUlg0s-7" target="XCOoZQrOJ5j_rnbUlg0s-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="XCOoZQrOJ5j_rnbUlg0s-7" value="任务2：开发工具掌握" style="whiteSpace=wrap;strokeWidth=2;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="1">
+        <mxCell id="XCOoZQrOJ5j_rnbUlg0s-7" value="任务2：开发工具掌握" style="whiteSpace=wrap;strokeWidth=2;fillColor=#ffffff;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="495.5" y="540" width="212" height="49" as="geometry" />
         </mxCell>
         <mxCell id="XCOoZQrOJ5j_rnbUlg0s-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fillColor=#1ba1e2;strokeColor=#006EAF;" edge="1" parent="1" source="XCOoZQrOJ5j_rnbUlg0s-8" target="XCOoZQrOJ5j_rnbUlg0s-14">
@@ -46,7 +46,7 @@
         <mxCell id="XCOoZQrOJ5j_rnbUlg0s-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#1ba1e2;strokeColor=#006EAF;" edge="1" parent="1" source="XCOoZQrOJ5j_rnbUlg0s-8" target="XCOoZQrOJ5j_rnbUlg0s-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="XCOoZQrOJ5j_rnbUlg0s-8" value="任务3：应用场景设计" style="whiteSpace=wrap;strokeWidth=2;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="1">
+        <mxCell id="XCOoZQrOJ5j_rnbUlg0s-8" value="任务3：应用场景设计" style="whiteSpace=wrap;strokeWidth=2;fillColor=#ffffff;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="495.5" y="859" width="212" height="49" as="geometry" />
         </mxCell>
         <mxCell id="XCOoZQrOJ5j_rnbUlg0s-9" value="任务4：项目实践开发" style="whiteSpace=wrap;strokeWidth=2;fillColor=#000000;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="1">
