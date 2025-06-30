@@ -71,16 +71,16 @@
           <mxGeometry x="1290" y="301" width="230" height="49" as="geometry" />
         </mxCell>
         <mxCell id="XCOoZQrOJ5j_rnbUlg0s-20" value="图形系统与视觉呈现" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1290" y="562" width="204" height="49" as="geometry" />
+          <mxGeometry x="1290" y="562" width="230" height="49" as="geometry" />
         </mxCell>
         <mxCell id="XCOoZQrOJ5j_rnbUlg0s-21" value="几何变换与空间坐标" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1290" y="649" width="204" height="49" as="geometry" />
+          <mxGeometry x="1290" y="649" width="230" height="49" as="geometry" />
         </mxCell>
         <mxCell id="XCOoZQrOJ5j_rnbUlg0s-22" value="计算机视觉与图像识别" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1290" y="823" width="220" height="49" as="geometry" />
         </mxCell>
         <mxCell id="XCOoZQrOJ5j_rnbUlg0s-23" value="定位与追踪技术" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1290" y="475" width="172" height="49" as="geometry" />
+          <mxGeometry x="1290" y="475" width="230" height="49" as="geometry" />
         </mxCell>
         <mxCell id="XCOoZQrOJ5j_rnbUlg0s-24" value="传感器与硬件技术" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1290" y="997" width="188" height="49" as="geometry" />
